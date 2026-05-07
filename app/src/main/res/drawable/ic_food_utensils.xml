@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#FFF3E0"
+        android:pathData="M80,8 C121,8 152,39 152,80 C152,121 121,152 80,152 C39,152 8,121 8,80 C8,39 39,8 80,8 Z" />
+    <!-- Fork handle -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M61,88 L66,88 L66,138 L61,138 Z" />
+    <!-- Fork prongs -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M55,24 L58,24 L58,70 L55,70 Z" />
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M61,24 L64,24 L64,70 L61,70 Z" />
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M67,24 L70,24 L70,70 L67,70 Z" />
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M73,24 L76,24 L76,70 L73,70 Z" />
+    <!-- Fork neck -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M55,70 C55,82 61,88 63,88 C65,88 76,82 76,70 Z" />
+    <!-- Knife handle -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M92,88 L97,88 L97,138 L92,138 Z" />
+    <!-- Knife blade straight edge -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M92,24 L97,24 L97,88 L92,88 Z" />
+    <!-- Knife curved blade edge -->
+    <path
+        android:fillColor="#BF360C"
+        android:pathData="M96,24 C104,35 108,55 100,82 L97,82 C105,55 101,35 96,24 Z" />
+</vector>

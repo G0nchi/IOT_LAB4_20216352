@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+    <!-- Plate rim -->
+    <path
+        android:fillColor="#F5DEB3"
+        android:pathData="M80,8 C121,8 152,39 152,80 C152,121 121,152 80,152 C39,152 8,121 8,80 C8,39 39,8 80,8 Z" />
+    <!-- Plate surface -->
+    <path
+        android:fillColor="#FFFAF0"
+        android:pathData="M80,28 C109,28 132,51 132,80 C132,109 109,132 80,132 C51,132 28,109 28,80 C28,51 51,28 80,28 Z" />
+    <!-- Pasta/food base -->
+    <path
+        android:fillColor="#F4A460"
+        android:pathData="M55,78 C57,65 70,62 80,65 C90,68 102,72 102,83 C102,94 90,101 80,100 C70,99 53,95 55,78 Z" />
+    <!-- Tomato sauce -->
+    <path
+        android:fillColor="#C0392B"
+        android:pathData="M62,79 C65,70 76,68 84,72 C91,76 93,83 88,89 C83,95 73,94 66,89 C59,84 60,83 62,79 Z" />
+    <!-- Basil garnish -->
+    <path
+        android:fillColor="#27AE60"
+        android:pathData="M78,66 C80,59 89,61 86,70 C83,73 78,69 78,66 Z" />
+    <!-- Cheese dots -->
+    <path
+        android:fillColor="#F9E04B"
+        android:pathData="M70,82 C70,80 72,80 72,82 C72,84 70,84 70,82 Z" />
+    <path
+        android:fillColor="#F9E04B"
+        android:pathData="M80,86 C80,84 82,84 82,86 C82,88 80,88 80,86 Z" />
+</vector>
