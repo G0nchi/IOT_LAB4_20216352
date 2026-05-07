@@ -2,6 +2,10 @@
 
 MealExplorer es una aplicación Android desarrollada en Java que permite explorar recetas de cocina de todo el mundo consumiendo la API pública TheMealDB. La app cuenta con tres fragmentos principales (Categorías, Platos y Receta) conectados mediante Navigation Component y un BottomNavigationView, implementa llamadas HTTP asíncronas con Retrofit y carga de imágenes con Glide, y usa el sensor acelerómetro del dispositivo para obtener una receta aleatoria al detectar una agitación superior a 4 m/s².
 
+## Video de demostración
+
+[Ver demo de la aplicación en Google Drive](https://drive.google.com/file/d/1ZNcdEJpuI10rty9jwzbEkA3Mfpxrsofn/view?usp=sharing)
+
 ## Principales prompts utilizados para el desarrollo del laboratorio
 
 | # | Prompt                                                                                                                                                                                                                                                                                                                  | Motivo | Modelo |
