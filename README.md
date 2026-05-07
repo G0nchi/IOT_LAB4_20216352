@@ -4,7 +4,7 @@ MealExplorer es una aplicación Android desarrollada en Java que permite explora
 
 ## Video de demostración
 
-[Ver demo de la aplicación en Google Drive](https://drive.google.com/file/d/1ZNcdEJpuI10rty9jwzbEkA3Mfpxrsofn/view?usp=sharing)
+[![Demo MealExplorer](https://img.youtube.com/vi/_zeHceOAzY8/0.jpg)](https://youtu.be/_zeHceOAzY8)
 
 ## Principales prompts utilizados para el desarrollo del laboratorio
 
